@@ -1,0 +1,12 @@
+python is a programming language
+ ['strawberry']
+ ['spelt']
+ ['lemon']
+ ['walnut']
+ ['watercress']
+ ['orange']
+ ['leek']
+ ['polenta']
+ ['sunflower seed']
+ ['zucchini']
+ ['quince']
